@@ -10,9 +10,9 @@ These are different tasks that are completed:
 
   - **Total Cases vs Total Deaths** shows the likelihood of dying if you contract covid in your country.
   - **Total Cases vs Population** shows what percentage of population got covid.
-  - **Countries with Highest Infection Rate compared to Population**
-  - **Countries with Highest Death Count per Population**
-  - **Continents with the Highest Death Count per Population**
+  - Countries with Highest Infection Rate compared to Population
+  - Countries with Highest Death Count per Population
+  - Continents with the Highest Death Count per Population
   - **Total Population vs Vaccinations** shows percentage of population that has received at least one dose of covid vaccicne.
 
 **Skills used**: 
