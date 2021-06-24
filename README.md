@@ -4,7 +4,7 @@ Real world data exploration completed using SQL.
 
 ## Overview
 
-The datasets contain hundreds of thousands of Covid-19 cases, deaths and vaccinations from different countries all over the world.
+The datasets contain thousands of Covid-19 cases, deaths and vaccinations from different countries all over the world.
 
 These are different tasks that are completed:
 
